@@ -1,0 +1,11 @@
+C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.csprojAssemblyReference.cache
+C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.Properties.Resources.resources
+C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.csproj.GenerateResource.cache
+C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.csproj.CoreCompileInputs.cache
+C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\bin\Debug\ShutdownAfterInput.exe.config
+C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\bin\Debug\ShutdownAfterInput.exe
+C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\bin\Debug\ShutdownAfterInput.pdb
+C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.exe
+C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.pdb
+C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.UI.About.resources
+C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.UI.Main.resources
