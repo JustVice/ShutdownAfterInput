@@ -9,3 +9,14 @@ C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAft
 C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.pdb
 C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.UI.About.resources
 C:\Users\JMV\Desktop\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.UI.Main.resources
+E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\bin\Debug\ShutdownAfterInput.exe.config
+E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\bin\Debug\ShutdownAfterInput.exe
+E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\bin\Debug\ShutdownAfterInput.pdb
+E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.csprojAssemblyReference.cache
+E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.Properties.Resources.resources
+E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.UI.About.resources
+E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.UI.Main.resources
+E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.csproj.GenerateResource.cache
+E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.csproj.CoreCompileInputs.cache
+E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.exe
+E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.pdb

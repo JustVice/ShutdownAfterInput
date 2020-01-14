@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Main));
             this.label1 = new System.Windows.Forms.Label();
             this.button_10_seconds = new System.Windows.Forms.Button();
             this.button_1_minute = new System.Windows.Forms.Button();
@@ -42,15 +43,16 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(30, 13);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label1.Location = new System.Drawing.Point(9, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(82, 13);
+            this.label1.Size = new System.Drawing.Size(404, 17);
             this.label1.TabIndex = 0;
-            this.label1.Text = "LOREM IPSUM";
+            this.label1.Text = "Please, set a timer and check the checkbox to start the engine.";
             // 
             // button_10_seconds
             // 
-            this.button_10_seconds.Location = new System.Drawing.Point(33, 104);
+            this.button_10_seconds.Location = new System.Drawing.Point(76, 45);
             this.button_10_seconds.Name = "button_10_seconds";
             this.button_10_seconds.Size = new System.Drawing.Size(75, 23);
             this.button_10_seconds.TabIndex = 1;
@@ -60,7 +62,7 @@
             // 
             // button_1_minute
             // 
-            this.button_1_minute.Location = new System.Drawing.Point(115, 103);
+            this.button_1_minute.Location = new System.Drawing.Point(157, 45);
             this.button_1_minute.Name = "button_1_minute";
             this.button_1_minute.Size = new System.Drawing.Size(75, 23);
             this.button_1_minute.TabIndex = 2;
@@ -70,7 +72,7 @@
             // 
             // button_5_minute
             // 
-            this.button_5_minute.Location = new System.Drawing.Point(197, 102);
+            this.button_5_minute.Location = new System.Drawing.Point(238, 45);
             this.button_5_minute.Name = "button_5_minute";
             this.button_5_minute.Size = new System.Drawing.Size(75, 23);
             this.button_5_minute.TabIndex = 3;
@@ -80,7 +82,7 @@
             // 
             // button_10_minute
             // 
-            this.button_10_minute.Location = new System.Drawing.Point(279, 103);
+            this.button_10_minute.Location = new System.Drawing.Point(319, 45);
             this.button_10_minute.Name = "button_10_minute";
             this.button_10_minute.Size = new System.Drawing.Size(75, 23);
             this.button_10_minute.TabIndex = 4;
@@ -90,7 +92,7 @@
             // 
             // button_about
             // 
-            this.button_about.Location = new System.Drawing.Point(361, 103);
+            this.button_about.Location = new System.Drawing.Point(168, 74);
             this.button_about.Name = "button_about";
             this.button_about.Size = new System.Drawing.Size(132, 23);
             this.button_about.TabIndex = 5;
@@ -101,7 +103,7 @@
             // label_version
             // 
             this.label_version.AutoSize = true;
-            this.label_version.Location = new System.Drawing.Point(505, 13);
+            this.label_version.Location = new System.Drawing.Point(429, 13);
             this.label_version.Name = "label_version";
             this.label_version.Size = new System.Drawing.Size(30, 13);
             this.label_version.TabIndex = 6;
@@ -110,30 +112,30 @@
             // checkBox_i_understand
             // 
             this.checkBox_i_understand.AutoSize = true;
-            this.checkBox_i_understand.Location = new System.Drawing.Point(12, 227);
+            this.checkBox_i_understand.Location = new System.Drawing.Point(12, 116);
             this.checkBox_i_understand.Name = "checkBox_i_understand";
-            this.checkBox_i_understand.Size = new System.Drawing.Size(447, 30);
+            this.checkBox_i_understand.Size = new System.Drawing.Size(450, 30);
             this.checkBox_i_understand.TabIndex = 7;
             this.checkBox_i_understand.Text = "I understand what will happen after pressing any of the counter buttons.\r\nFor an " +
-    "explanation of what will happen go to Instructions and about - Program Instructi" +
-    "ons";
+    "explanation of what will happen go to: Instructions and about - Program Instruct" +
+    "ions";
             this.checkBox_i_understand.UseVisualStyleBackColor = true;
             // 
             // label_you_must_check_this_check_box
             // 
             this.label_you_must_check_this_check_box.AutoSize = true;
             this.label_you_must_check_this_check_box.ForeColor = System.Drawing.Color.Red;
-            this.label_you_must_check_this_check_box.Location = new System.Drawing.Point(12, 208);
+            this.label_you_must_check_this_check_box.Location = new System.Drawing.Point(12, 100);
             this.label_you_must_check_this_check_box.Name = "label_you_must_check_this_check_box";
-            this.label_you_must_check_this_check_box.Size = new System.Drawing.Size(179, 13);
+            this.label_you_must_check_this_check_box.Size = new System.Drawing.Size(209, 13);
             this.label_you_must_check_this_check_box.TabIndex = 8;
-            this.label_you_must_check_this_check_box.Text = "You must check this box to continue";
+            this.label_you_must_check_this_check_box.Text = "You must check this checkbox to continue";
             // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(547, 269);
+            this.ClientSize = new System.Drawing.Size(471, 148);
             this.Controls.Add(this.label_you_must_check_this_check_box);
             this.Controls.Add(this.checkBox_i_understand);
             this.Controls.Add(this.label_version);
@@ -143,6 +145,7 @@
             this.Controls.Add(this.button_1_minute);
             this.Controls.Add(this.button_10_seconds);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Main";
             this.Text = "Main";
             this.ResumeLayout(false);

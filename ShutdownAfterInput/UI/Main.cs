@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Drawing;
 using System.Threading;
 using System.Windows.Forms;
 using ShutdownAfterInput.Logic;
@@ -23,6 +24,8 @@ namespace ShutdownAfterInput.UI
             //puts form at the center of the screen.
             this.CenterToScreen();
             LABEL_YOU_MUST_CHECK_YOU_UNDERSTAND_TOOGLE_VISIBILITY(false);
+            //No resize window
+            this.MaximizeBox = false;
         }
 
         private void CHANGE_ENGINE_TIMER(int time)

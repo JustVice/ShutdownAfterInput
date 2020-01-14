@@ -9,7 +9,7 @@ namespace ShutdownAfterInput.Logic
     public class Memory
     {
         //If true, the program will not shutdown the PC.
-        public static bool TEST_MODE = true;
+        public static bool TEST_MODE = false;
         //The time before the engine save the mouse coordinates and starts
         //checking if the mouse was moved to then shutdown the PC.
         public static int ENGINE_TIMER = 10000;

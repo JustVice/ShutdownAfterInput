@@ -9,8 +9,15 @@ namespace ShutdownAfterInput.UI
         public About()
         {
             InitializeComponent();
+            UI_SETTINGS();
+        }
+
+        private void UI_SETTINGS()
+        {
             //puts form at the center of the screen.
             this.CenterToScreen();
+            //No resize window
+            this.MaximizeBox = false;
         }
 
         private void button_back_to_main_Click(object sender, EventArgs e)
@@ -49,7 +56,7 @@ namespace ShutdownAfterInput.UI
 
         private void label_program_web_page_Click(object sender, EventArgs e)
         {
-            string url = "https://www.google.com/";
+            string url = "https://justvice.github.io/h/technology/CSharp/shutdown-after-input/";
             Memory.OPEN_BROWSER_WITH_URL(url);
         }
 
