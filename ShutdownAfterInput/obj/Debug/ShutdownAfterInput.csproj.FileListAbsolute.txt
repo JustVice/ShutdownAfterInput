@@ -20,3 +20,14 @@ E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\Shutdo
 E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.csproj.CoreCompileInputs.cache
 E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.exe
 E:\Programas\Github_repos\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.pdb
+E:\Github Repositories\1. Project SPLIT\ShutdownAfterInput\ShutdownAfterInput\bin\Debug\ShutdownAfterInput.exe.config
+E:\Github Repositories\1. Project SPLIT\ShutdownAfterInput\ShutdownAfterInput\bin\Debug\ShutdownAfterInput.exe
+E:\Github Repositories\1. Project SPLIT\ShutdownAfterInput\ShutdownAfterInput\bin\Debug\ShutdownAfterInput.pdb
+E:\Github Repositories\1. Project SPLIT\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.csprojAssemblyReference.cache
+E:\Github Repositories\1. Project SPLIT\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.Properties.Resources.resources
+E:\Github Repositories\1. Project SPLIT\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.UI.About.resources
+E:\Github Repositories\1. Project SPLIT\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.UI.Main.resources
+E:\Github Repositories\1. Project SPLIT\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.csproj.GenerateResource.cache
+E:\Github Repositories\1. Project SPLIT\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.csproj.CoreCompileInputs.cache
+E:\Github Repositories\1. Project SPLIT\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.exe
+E:\Github Repositories\1. Project SPLIT\ShutdownAfterInput\ShutdownAfterInput\obj\Debug\ShutdownAfterInput.pdb

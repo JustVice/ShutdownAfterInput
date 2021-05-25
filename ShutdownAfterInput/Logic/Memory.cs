@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ShutdownAfterInput.Logic
 {
@@ -14,7 +10,7 @@ namespace ShutdownAfterInput.Logic
         //checking if the mouse was moved to then shutdown the PC.
         public static int ENGINE_TIMER = 10000;
         public static string program_label_name = "Shutdown After Input",
-            program_version = "1.0";
+            program_version = "1.0.1";
 
         public static void OPEN_BROWSER_WITH_URL(string url)
         {

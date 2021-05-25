@@ -32,31 +32,31 @@ namespace ShutdownAfterInput.UI
 
         private void label_program_instrucctions_Click(object sender, EventArgs e)
         {
-            string url = "https://github.com/JustVice/ShutdownAfterInput/wiki/Program-Guidelines";
+            string url = "https://github.com/SplitVice/ShutdownAfterInput/wiki/Program-Guidelines";
             Memory.OPEN_BROWSER_WITH_URL(url);
         }
 
         private void label_twitter_Click(object sender, EventArgs e)
         {
-            string url = "http://justvice.github.io/s/twitter";
+            string url = "http://split-vice.com/s/twitter";
             Memory.OPEN_BROWSER_WITH_URL(url);
         }
 
         private void label_web_page_Click(object sender, EventArgs e)
         {
-            string url = "http://justvice.github.io/";
+            string url = "http://split-vice.com/";
             Memory.OPEN_BROWSER_WITH_URL(url);
         }
 
         private void label_github_Click(object sender, EventArgs e)
         {
-            string url = "http://justvice.github.io/s/github-repos";
+            string url = "http://split-vice.com/s/github-repos";
             Memory.OPEN_BROWSER_WITH_URL(url);
         }
 
         private void label_program_web_page_Click(object sender, EventArgs e)
         {
-            string url = "https://justvice.github.io/h/technology/CSharp/shutdown-after-input/";
+            string url = "http://split-vice.com/technology/CSharp/shutdown-after-input/";
             Memory.OPEN_BROWSER_WITH_URL(url);
         }
 
